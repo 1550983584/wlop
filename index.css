@@ -1,7 +1,7 @@
 body {
     margin: 0;
     /* 清除浏览器自带外边距 */
-    background: url(/img/c.jpg);background-size: cover;
+    background: url(img/c.jpg);background-size: cover;
 }
 
 .wrap {
